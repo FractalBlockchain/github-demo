@@ -1,2 +1,2 @@
 # github-demo
-This was created during the OSS workshop
+This was NOT created during the OSS workshop
